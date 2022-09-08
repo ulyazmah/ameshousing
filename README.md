@@ -1,4 +1,4 @@
-# Ameshousing
+# AmesHousing
 This is an Exploratory Data Analysis practice on Ames Housing dataset.
 
 ## Introduction
